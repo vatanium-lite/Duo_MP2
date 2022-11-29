@@ -1,0 +1,23 @@
+#
+# Demo 1
+#
+
+# demo 1.1
+BBIJ....IJCC..IAAMGDDK.MGH.KL.GHFFL. 
+
+# demo 1.2
+..I...BBI.K.GHAAKLGHDDKLG..JEEFF.J.. 
+
+# demo 1.3
+JBBCCCJDD..MJAAL.MFFKL.N..KGGN.HH... 
+
+# demo 1.4
+BBB..MCCDD.MAAKL.MJ.KLEEJ.GG..JHHHII J0 B4
+
+# demo 1.5
+IJBBCCIJDDL.IJAAL.EEK.L...KFF..GGHH. F0 G6
+
+# demo 1.6
+BB.G.HE..G.HEAAG.I..FCCIDDF..I..F... 
+
+
