@@ -1,0 +1,13 @@
+Initial Board Configuration: IJBBCCIJDDL.IJAAL.EEK.L...KFF..GGHH. F0 G6
+
+[['I' 'J' 'B' 'B' 'C' 'C']
+ ['I' 'J' 'D' 'D' 'L' '.']
+ ['I' 'J' 'A' 'A' 'L' '.']
+ ['E' 'E' 'K' '.' 'L' '.']
+ ['.' '.' 'K' 'F' 'F' '.']
+ ['.' 'G' 'G' 'H' 'H' '.']]
+
+Car Fuel Available: B100 C100 D100 A100 E100 F0 G6 H100 I100 J100 K100 L100
+
+Runtime: 0.3924346999999955 seconds
+no solution

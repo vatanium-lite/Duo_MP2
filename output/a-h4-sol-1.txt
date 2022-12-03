@@ -1,0 +1,29 @@
+Initial Board Configuration: BBIJ....IJCC..IAAMGDDK.MGH.KL.GHFFL.
+
+[['B' 'B' 'I' 'J' '.' '.']
+ ['.' '.' 'I' 'J' 'C' 'C']
+ ['.' '.' 'I' 'A' 'A' 'M']
+ ['G' 'D' 'D' 'K' '.' 'M']
+ ['G' 'H' '.' 'K' 'L' '.']
+ ['G' 'H' 'F' 'F' 'L' '.']]
+
+Car Fuel Available: B100 C100 A100 D100 F100 G100 H100 I100 J100 K100 L100 M100
+
+Runtime: 0.0069747 seconds
+
+Search path length: 34 states
+
+Solution path length: 2 moves
+
+Solution path: M down 1; A right 1
+
+M down 1	BBIJ....IJCC..IAA.GDDK..GH.KLMGHFFLM M98 
+
+A right 1	BBIJ....IJCC..I.AAGDDK..GH.KLMGHFFLM M98 A99 
+
+[['B' 'B' 'I' 'J' '.' '.']
+ ['.' '.' 'I' 'J' 'C' 'C']
+ ['.' '.' 'I' '.' 'A' 'A']
+ ['G' 'D' 'D' 'K' '.' '.']
+ ['G' 'H' '.' 'K' 'L' 'M']
+ ['G' 'H' 'F' 'F' 'L' 'M']]
