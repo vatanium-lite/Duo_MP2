@@ -8,9 +8,9 @@ import numpy as np
 
 
 class Node:
-    def __init__(self, grid: np.array, h, moves=''):
+    def __init__(self, grid: np.array, h, coef=1, moves=''):
         self.grid = grid
-        self.cost = h(grid)
+        self.cost = h(grid) * coef
         self.moves = moves
         self.h = h
 
@@ -45,7 +45,7 @@ def get_possible_states(current_node: Node):
     return all_possible_states
 
 
-def gbfs(start: Node, h):
+def gbfs(start: Node):
 
     redundancy_list = list()
     q = queue.PriorityQueue()  #Open list
