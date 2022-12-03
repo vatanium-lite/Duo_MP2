@@ -23,3 +23,7 @@ def h2(grid: np.array):
             n_blocking_positions += 1
 
     return n_blocking_positions
+
+def h4(puzzle: str):
+    return abs(h4(puzzle) - h2(puzzle))
+
