@@ -1,0 +1,14 @@
+Initial Board Configuration: BBB..MCCDD.MAAKL.MJ.KLEEJ.GG..JHHHII J0 B4
+
+[['B' 'B' 'B' '.' '.' 'M']
+ ['C' 'C' 'D' 'D' '.' 'M']
+ ['A' 'A' 'K' 'L' '.' 'M']
+ ['J' '.' 'K' 'L' 'E' 'E']
+ ['J' '.' 'G' 'G' '.' '.']
+ ['J' 'H' 'H' 'H' 'I' 'I']]
+
+Car Fuel Available: B4 C100 D100 A100 E100 G100 H100 I100 J0 K100 L100 M100
+
+Runtime: 0.17400540000000575 seconds
+
+no solution
