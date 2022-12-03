@@ -164,6 +164,10 @@ data/
 Lib/
 Scripts/
 /pyvenv.cfg
+share/
 
 # Sample outputs
 Sample/
+
+# test file
+Vata/test.py
