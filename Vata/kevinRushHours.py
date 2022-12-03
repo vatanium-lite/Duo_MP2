@@ -24,8 +24,8 @@ class Car:
         else:
             self.arr_indices = self.arr_indices[0] + amount, self.arr_indices[1]
 
-    def update_fuel(self, new_fuel: int):
-        self.n_fuel = self.n_fuel - new_fuel
+    def update_fuel(self, moves: int):
+        self.n_fuel -= abs(moves)
 
     def __str__(self):
         return "{direction} car '{letter}' with a length of {length}. Indices i:{indices_i} and j:{indices_j}".format(
