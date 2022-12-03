@@ -9,7 +9,7 @@ Initial Board Configuration: BB.G.HE..G.HEAAG.I..FCCIDDF..I..F...
 
 Car Fuel Available: B100 A100 C100 D100 E100 F100 G100 H100 I100
 
-Runtime: 0.849472200000001 seconds
+Runtime: 0.5893530000000027 seconds
 
 Search path length: 5640 states
 

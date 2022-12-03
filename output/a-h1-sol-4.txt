@@ -9,5 +9,5 @@ Initial Board Configuration: BBB..MCCDD.MAAKL.MJ.KLEEJ.GG..JHHHII J0 B4
 
 Car Fuel Available: B4 C100 D100 A100 E100 G100 H100 I100 J0 K100 L100 M100
 
-Runtime: 0.1594325000000012 seconds
+Runtime: 0.15059439999999924 seconds
 no solution
