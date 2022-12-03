@@ -9,5 +9,5 @@ Initial Board Configuration: IJBBCCIJDDL.IJAAL.EEK.L...KFF..GGHH. F0 G6
 
 Car Fuel Available: B100 C100 D100 A100 E100 F0 G6 H100 I100 J100 K100 L100
 
-Runtime: 0.3924346999999955 seconds
+Runtime: 0.5350043999999983 seconds
 no solution
