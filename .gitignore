@@ -176,3 +176,4 @@ Vata/test.py
 # Ignore Kevin's notebook
 /MP2.ipynb
 analysis/
+/analysis/
