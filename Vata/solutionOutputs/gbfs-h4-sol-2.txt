@@ -1,0 +1,23 @@
+Initial board configuration: ..I...BBI.K.GHAAKLGHDDKLG..JEEFF.J..
+
+[['.' '.' 'I' '.' '.' '.']
+ ['B' 'B' 'I' '.' 'K' '.']
+ ['G' 'H' 'A' 'A' 'K' 'L']
+ ['G' 'H' 'D' 'D' 'K' 'L']
+ ['G' '.' '.' 'J' 'E' 'E']
+ ['F' 'F' '.' 'J' '.' '.']]
+
+Car fuel available: B:100, A:100, D:100, E:100, F:100, G:100, H:100, I:100, J:100, K:100, L:100, 
+
+Runtime: 15.026846647262573 seconds
+Search path length: 1847 states
+Solution path length: 160 moves
+..IJ..BBIJ..GH..AAGHDDK.GEE.KL..FFKL A97  L93  F97  L94  K96  F90  L94  K99  L96  F93  K99  L98  K94  L97  G99  K97  L94  K99  L90  K96  L93  E94  L99  F99  H99  L99  G99  H99  L99  F97  L97  H97  L98  F93  L99  H99  L97  G99  H99  K99  H97  L97  K99  L99  A98  L99  J99  G99  L98  K99  L99  D99  H99  L99  J99  F96  L99  G99  L97  J99  L98  E98  L94  F99  L94  J99  L97  F97  L94  G99  L96  J99  F90  L99  J99  L90  F94  L94  J99  L99  G99  L94  H99  L90  J99  L93  D97  K99  L96  F99  J97  L97  K99  L94  F98  L90  K99  J98  L94  E99  K99  L97  K97  L93  J99  K98  L96  F99  L99  K97  L97  K96  L90  K97  L93  J97  K97  L96  K99  L94  K96  L90  E97  K99  F99  L97  J97  K99  L97  G99  J97  L97  J94  L98  K99  L99  A99  L97  F99  L98  G99  F97  K99  G99  L99  J99  K99  D94  H97  J99  F90  L99  H99  J99  L99  D97  H99  L97  K99 
+Solution path: K down 1; L down 3; H down 1; D right 3; L down 1; J up 1; H down 1; L down 1; F right 10; J up 1; H down 3; D right 6; K down 1; J up 1; L down 1; G down 1; K down 1; F right 3; G down 1; L down 2; F right 1; L down 3; A right 1; L down 1; K down 1; L down 2; J up 6; L down 3; J up 3; G down 1; L down 3; K down 1; J up 3; L down 3; F right 1; K down 1; E left 3; L down 10; K down 4; L down 6; K down 1; L down 4; K down 3; J up 3; L down 7; K down 3; L down 10; K down 4; L down 3; K down 3; L down 1; F right 1; L down 4; K down 2; J up 1; L down 7; K down 3; L down 3; K down 1; E left 1; L down 6; J up 2; K down 1; L down 10; F right 2; L down 6; K down 1; L down 3; J up 3; F right 1; L down 4; K down 1; D right 3; L down 7; J up 1; L down 10; H down 1; L down 6; G down 1; L down 1; J up 1; L down 6; F right 6; L down 10; J up 1; L down 1; F right 10; J up 1; L down 4; G down 1; L down 6; F right 3; L down 3; J up 1; L down 6; F right 1; L down 6; E left 2; L down 2; J up 1; L down 3; G down 1; L down 1; F right 4; J up 1; L down 1; H down 1; D right 1; L down 1; K down 1; L down 2; G down 1; J up 1; L down 1; A right 2; L down 1; K down 1; L down 3; H down 3; K down 1; H down 1; G down 1; L down 3; H down 1; L down 1; F right 7; L down 2; H down 3; L down 3; F right 3; L down 1; H down 1; G down 1; L down 1; H down 1; F right 1; L down 1; E left 6; L down 7; K down 4; L down 10; K down 1; L down 6; K down 3; G down 1; L down 3; K down 6; L down 2; K down 1; F right 7; L down 4; K down 1; L down 6; F right 10; K down 4; L down 6; F right 3; L down 7; A right 3; 
+
+[['.' '.' 'I' 'J' '.' '.']
+ ['B' 'B' 'I' 'J' '.' '.']
+ ['G' 'H' '.' '.' 'A' 'A']
+ ['G' 'H' 'D' 'D' 'K' '.']
+ ['G' 'E' 'E' '.' 'K' 'L']
+ ['.' '.' 'F' 'F' 'K' 'L']]

@@ -1,0 +1,23 @@
+Initial board configuration: IJBBCCIJDDL.IJAAL.EEK.L...KFF..GGHH.
+
+[['I' 'J' 'B' 'B' 'C' 'C']
+ ['I' 'J' 'D' 'D' 'L' '.']
+ ['I' 'J' 'A' 'A' 'L' '.']
+ ['E' 'E' 'K' '.' 'L' '.']
+ ['.' '.' 'K' 'F' 'F' '.']
+ ['.' 'G' 'G' 'H' 'H' '.']]
+
+Car fuel available: B:100, C:100, D:100, A:100, E:100, F:100, G:100, H:100, I:100, J:100, K:100, L:100, 
+
+Runtime: 2.524275302886963 seconds
+Search path length: 687 states
+Solution path length: 48 moves
+BBK.CCDDK...IJ..AAIJEEL.IJFFL.GGHHL. A97  L97  H97  G97  L99  I99  C99  J99  A97  L99  F97  C99  K99  C97  L99  E97  K97  A97  E99  D97  I97  J98  I99  G97  H97  F99  I99  J99  E99  H99  I99  J99  K99  E97  I99  J99  L99  C97  B97  J99  H99  J97  I99  E97  H99  K99  G99 
+Solution path: G left 1; K up 1; H left 1; E right 3; I down 1; J down 3; H left 1; J down 1; B left 3; C right 3; L down 1; J down 1; I down 1; E right 3; K up 1; J down 1; I down 1; H left 1; E right 1; J down 1; I down 1; F left 1; H left 3; G left 3; I down 1; J down 2; I down 3; D left 3; E right 1; A right 3; K up 3; E right 3; L down 1; C right 3; K up 1; C right 1; F left 3; L down 1; A right 3; J down 1; C right 1; I down 1; L down 1; G left 3; H left 3; L down 3; A right 3; 
+
+[['B' 'B' 'K' '.' 'C' 'C']
+ ['D' 'D' 'K' '.' '.' '.']
+ ['I' 'J' '.' '.' 'A' 'A']
+ ['I' 'J' 'E' 'E' 'L' '.']
+ ['I' 'J' 'F' 'F' 'L' '.']
+ ['G' 'G' 'H' 'H' 'L' '.']]
