@@ -171,4 +171,8 @@ Sample/
 
 # test file
 Vata/test.py
-Vata/searchOutputs/
+/gbfs_csv.ipynb
+
+# Ignore Kevin's notebook
+/MP2.ipynb
+analysis/

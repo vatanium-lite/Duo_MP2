@@ -1,9 +1,5 @@
 import queue
-from kevinRushHours import get_all_cars_in_grid
-from kevinRushHours import find_available_spaces_for_car_on_grid
-from kevinRushHours import move_car
-from kevinRushHours import get_car
-from kevinRushHours import grid_to_string
+from kevinRushHours import *
 import numpy as np
 
 
