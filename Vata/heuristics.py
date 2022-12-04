@@ -25,8 +25,6 @@ def h2(grid: np.array):
     return n_blocking_positions
 
 
-def h3(grid: np.array, coef):
-    if coef > 1:
-        return h1(grid)*coef
-    else:
-        return None
+def h4(grid: np.array):
+    return abs(h1(grid) - h2(grid))
+
